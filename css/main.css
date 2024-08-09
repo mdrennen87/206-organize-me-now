@@ -151,7 +151,7 @@ footer {
   /* Add a Flexbox property to make the testimonial-content-wrapper a flex parent container. */
   display: flex; 
   /* Add a justify-content property and value so that any extra space if the parent container is around the child flex items.  */
-  justify-content: space-around;;
+  justify-content: space-around;
   /* Add a Flexbox property to align the contents at their center. */
   align-items: center; 
 
@@ -222,7 +222,6 @@ footer {
   .header-content-wrapper {
     /* Add a justify-content property and value so that any extra space if the parent container is between the h1 and "Book a Consultation link.  */
       justify-content: space-between;
-
   }
 
   h1 {
